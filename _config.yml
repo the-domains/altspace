@@ -1,0 +1,28 @@
+name: altspace
+favicon: null
+layout_spectrum: 0.20324437133967876
+typography_spectrum: 0.7193510560318828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6495399349369109
+  lightness: 0.17431654268875718
+  saturation: 0.4648087224923074
+  rhythmicContrast: 0.3019767142832279
+purpose: []
